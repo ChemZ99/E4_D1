@@ -14,5 +14,6 @@ public class Exercise_2 {
         System.out.println("hai scritto" + text2);
         System.out.println("risultato"+text1+num1+text2);
         System.out.println("risultato invertito"+text2+num1+text1);
+        input.close();
     }
 }
